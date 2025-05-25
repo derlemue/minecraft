@@ -1,15 +1,14 @@
-__**OS: Debian 12 | 6 Cores | 6144 MB RAM | (no desktop / basic + ssh server only)**__
-**User: minecraft**
+## OS: Debian 12 | 6 Cores | 6144 MB RAM | (no desktop / basic + ssh server only)
+## User: minecraft
 
-__Docker und Docker-Compose installieren__
-```sudo apt install docker docker-compose unzip```
+## Docker und Docker-Compose installieren
+sudo apt install docker docker-compose unzip
 
-__Verzeichnis anlegen und zip laden/entpacken__
-```mkdir /home/minecraft/minecraft```
-```cd /home/minecraft/minecraft```
-```wwget -O minecraft.1.20.4.server.zip "https://drive.usercontent.google.com/download?id=1Cbcyy0epz32P60_D8mcFEHCqenpRRoq3&export=download&authuser=0&confirm=t&uuid=df10deff-8406-445f-a64e-60202cdcb618&at=ALoNOgkc4dOmKheGmwEc2pIZ638v%3A1748184856975"
-```
-```unzip minecraft.1.20.4.server.zip```
+## Verzeichnis anlegen und zip laden/entpacken
+mkdir /home/minecraft/minecraft
+cd /home/minecraft/minecraft
+wwget -O minecraft.1.20.4.server.zip "https://drive.usercontent.google.com/download?id=1Cbcyy0epz32P60_D8mcFEHCqenpRRoq3&export=download&authuser=0&confirm=t&uuid=df10deff-8406-445f-a64e-60202cdcb618&at=ALoNOgkc4dOmKheGmwEc2pIZ638v%3A1748184856975"
+unzip minecraft.1.20.4.server.zip
 
-__Docker starten__
-```docker-compose up -d && docker-compose logs -f```
+## Docker starten
+docker-compose up -d && docker-compose logs -f
