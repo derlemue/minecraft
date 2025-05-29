@@ -9,7 +9,13 @@ http://147.93.122.13:8081/mcserverip.txt
 
 (workaround until the ddns/ip tunnel got set up) 
 
-#### Server is non-productive atm
+---
+
+#### WARNING: server is non-productive a.t.m.
+
+---
+
+#### Insights
 
 <img width="400px" src="git-stuff/2025-05-29_16.51.17.png"> <img width="400px" src="git-stuff/2025-05-28_19.14.42.png">
 <img width="400px" src="git-stuff/2025-05-25_00.15.38.png"> <img width="400px" src="git-stuff/2025-05-24_23.27.33.png">
