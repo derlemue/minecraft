@@ -9,8 +9,6 @@ http://147.93.122.13:8081/mcserverip.txt
 
 (workaround until the ddns/ip tunnel got set up) 
 
----
-
 #### WARNING: server is non-productive a.t.m.
 
 ---
