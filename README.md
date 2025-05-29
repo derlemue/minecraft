@@ -4,6 +4,7 @@
 #### Click to get the daily Server IP:
 
 http://147.93.122.13:8081/mcserverip.txt
+
 [<img width="400px" src="git-stuff/Screenshot_2025-05-29_18-00-07.png">](http://147.93.122.13:8081/mcserverip.txt)
 
 (workaround until the ddns/ip tunnel got set up) 
