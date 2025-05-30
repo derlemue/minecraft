@@ -1,5 +1,11 @@
 ## lemueCraft Freebuild Minecraft Server
 
+#### BETA server domain & uptime dashboard
+
+IP: sunshi.ddnss.org
+
+Uptime: http://sunshi.ddnss.org:8100/status/uptime
+
 
 #### Click to get the daily Server IP:
 
