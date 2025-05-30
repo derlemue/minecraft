@@ -2,7 +2,7 @@
 
 #### BETA server domain & uptime dashboard
 
-IP: sunshi.ddnss.org
+IP: sunshi.ddnss.org:25565
 
 Uptime: http://sunshi.ddnss.org:8100/status/uptime
 
